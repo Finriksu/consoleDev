@@ -1,0 +1,7 @@
+C:\Users\Riku\Desktop\JAMK\finalproject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Riku\Desktop\JAMK\finalproject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Riku\Desktop\JAMK\finalproject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Riku\Desktop\JAMK\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Riku\Desktop\JAMK\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Riku\Desktop\JAMK\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Riku\Desktop\JAMK\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
